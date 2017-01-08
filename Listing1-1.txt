@@ -4,10 +4,8 @@
   <meta charset="utf-8" />
   <title>This is HTML5</title>
  </head>
-
  <body>
    <div id="outer">
    </div>
  <body>
 </html>
-
